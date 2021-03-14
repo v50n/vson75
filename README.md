@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vson75
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning front-end
+- 🌱 I’m currently learning React, ReactNative :) 
 - 💞️ I’m looking to collaborate on ... everythings
 
 <!---
